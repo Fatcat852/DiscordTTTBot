@@ -1,4 +1,5 @@
-
+# base game code
+# trying to adapt logic to discord bot
 # -----Global Variables-----
 game_still_going = True
 
